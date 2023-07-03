@@ -31,3 +31,7 @@ h1 {
 #re-size {
     width: 50%;
 }
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
