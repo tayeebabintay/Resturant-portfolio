@@ -1,0 +1,33 @@
+span {
+    color: red;
+}
+
+h1 {
+    font-weight: 700;
+}
+
+.link-button {
+    background-color: orange;
+    margin: 5px;
+    border-radius: 5px;
+    padding: 3px;
+    text-decoration: none;
+}
+
+#section-one {
+    display: flex;
+    width: 60% 40%;
+    padding: 20px;
+    background-image: url(images/bg1.jpg);
+}
+
+#section-two {
+    display: flex;
+    width: 20% 80%;
+    padding: 20px;
+    background-image: url(images/bg2.jpg)
+}
+
+#re-size {
+    width: 50%;
+}
